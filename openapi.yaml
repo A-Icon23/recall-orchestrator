@@ -192,4 +192,3 @@ paths:
                     example: "pending"
                   amount:
                     type: integer
-
